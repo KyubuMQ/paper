@@ -1,0 +1,7 @@
+name: KyubuMQ
+version: 1.0.0
+main: com.kyubumq.paper.PaperPlugin
+description: KyubuMQ Paper Integration
+author: LordKyubae
+website: https://github.com/KyubuMQ/paper
+api-version: '1.20'
